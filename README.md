@@ -3,9 +3,9 @@
  ![GitHub repo size](https://img.shields.io/github/repo-size/bezawy/Bezawy-Engineer)
   ![GitHub stars](https://img.shields.io/github/stars/bezawy/Bezawy-Engineer?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/bezawy/Bezawy-Engineer?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/albezawy?style=social)](https://x.com/albezawy)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/albezawy?style=social)](https://x.com/albezaway)
   [![YouTube Video Views](https://img.shields.io/youtube/views/wjqiFCTssTI?style=social)](https://www.youtube.com/@mrbezawy9704)
-  [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=social)](https://fb.com/albezawy)
+  [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=social)](https://fb.com/albezaway)
   <br />
   <br />
 
