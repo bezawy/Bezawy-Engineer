@@ -1,27 +1,27 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/julia-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/julia-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/julia-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/bezawy/Bezawy-Engineer)
+  ![GitHub stars](https://img.shields.io/github/stars/bezawy/Bezawy-Engineer?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/bezawy/Bezawy-Engineer?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/bezawy?style=social)](https://twitter.com/intent/follow?screen_name=bezawy)
   [![YouTube Video Views](https://img.shields.io/youtube/views/wjqiFCTssTI?style=social)](https://youtu.be/wjqiFCTssTI)
 
   <br />
   <br />
 
-  <h2 align="center">Julia - Portfolio Website</h2>
+  <h2 align="center">Bezawy-Engineer - Portfolio Website</h2>
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  A fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://bezawy.github.io/Bezawy-Engineer/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
-![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Bezawy-Engineer Desktop Demo](./readme-images/desktop1.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,24 +31,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Julia** locally, run this command on your git bash:
+To run **Bezawy-Engineer** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/julia-portfolio.git
+sudo git clone https://github.com/bezawy/Bezawy-Engineer.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/julia-portfolio.git
+git clone https://github.com/bezawy/Bezawy-Engineer.git
 ```
-
 ### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me, you can reach me at [Linkedin](www.linkedin.com/in/mohamed-h-bezawy)
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and contains no license.
+
