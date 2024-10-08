@@ -1,11 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/bezawy/Bezawy-Engineer)
+ ![GitHub repo size](https://img.shields.io/github/repo-size/bezawy/Bezawy-Engineer)
   ![GitHub stars](https://img.shields.io/github/stars/bezawy/Bezawy-Engineer?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/bezawy/Bezawy-Engineer?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/bezawy?style=social)](https://twitter.com/intent/follow?screen_name=bezawy)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/wjqiFCTssTI?style=social)](https://youtu.be/wjqiFCTssTI)
-
+  [![Twitter Follow](https://img.shields.io/twitter/follow/albezawy?style=social)](https://x.com/albezawy)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/wjqiFCTssTI?style=social)](https://www.youtube.com/@mrbezawy9704)
+  [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=social)](https://fb.com/albezawy)
   <br />
   <br />
 
