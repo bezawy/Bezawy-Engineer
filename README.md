@@ -45,7 +45,7 @@ Windows:
 git clone https://github.com/bezawy/Bezawy-Engineer.git
 ```
 ### Contact
-If you want to contact me, you can reach me at [Linkedin](www.linkedin.com/in/mohamed-h-bezawy)
+If you want to contact me, you can reach me at [Linkedin] (https://www.linkedin.com/in/mohamed-h-bezawy)
 
 ### License
 
